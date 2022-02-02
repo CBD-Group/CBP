@@ -13,4 +13,4 @@ People wishing to submit CBPs, should open a PR (<strong>read [CBP-1](./CBPs/cbp
 ## CBPs
 | cbp | title | status | type | author| created |
 | :----- | :---- | :---- | :----| :----  | :----  |
-| 1 | CBP Purpose and Guidelines | Draft | Process| Witter (@witterlee) | 2022-02-02 |
+| [1](../CBP/CBPs/cbp-0001.md) | CBP Purpose and Guidelines | Draft | Process| Witter (@witterlee) | 2022-02-02 |
